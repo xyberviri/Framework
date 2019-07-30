@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    },
+    {
+      "item": "framework:miner_tier_2"
+    }
+  ],
+  "result": {
+    "item": "framework:miner_tier_3"
+  }
+}

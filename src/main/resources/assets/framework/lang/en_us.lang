@@ -1,0 +1,33 @@
+tile.framework.miner_tier_1.name=Token Miner MK I
+tile.framework.miner_tier_2.name=Token Miner MK II
+tile.framework.miner_tier_3.name=Token Miner MK III
+tile.framework.miner_tier_4.name=Token Miner MK IV
+tile.framework.miner_tier_5.name=Token Miner MK V
+
+item.framework.miner_tier_1.description=Digital Token Miner, for when you need to work with out actually working.
+item.framework.miner_tier_2.description=Digital Token Miner, for when you need to work with out actually working.  
+item.framework.miner_tier_3.description=Digital Token Miner, for when you need to work with out actually working.
+item.framework.miner_tier_4.description=Digital Token Miner, for when you need to work with out actually working.
+item.framework.miner_tier_5.description=Digital Token Miner, for when you need to work with out actually working.
+
+item.framework.coin.name=Digital Work Token
+item.framework.coin.description=Currency for those that work using power.
+item.framework.token.name=Digital Work Token
+item.framework.token.description=Currency for those that work using power.
+
+item.framework.blackmushroom.name=Black Mushroom
+item.framework.blackmushroom.description=...Not really sure what to do with this...
+item.framework.bluemushroom.name=Blue Mushroom
+item.framework.bluemushroom.description=...Not really sure what to do with this...
+item.framework.greenmushroom.name=Green Mushroom
+item.framework.greenmushroom.description=...Not really sure what to do with this...
+item.framework.purplemushroom.name=Purple Mushroom
+item.framework.purplemushroom.description=...Not really sure what to do with this...
+item.framework.redmushroom.name=Red Mushroom
+item.framework.redmushroom.description=...Not really sure what to do with this...
+item.framework.yellowmushroom.name=Yellow Mushroom
+item.framework.yellowmushroom.description=...Not really sure what to do with this...
+itemGroup.framework.mainTab=Token
+gui.framework.miner.header=Token Miner
+
+commands.framework:reload.success=Reloaded config
